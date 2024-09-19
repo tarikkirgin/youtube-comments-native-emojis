@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "YouTube Comments Native Emojis",
+  "description": "Returns the native operating system emojis to the YouTube comments.",
+  "author": "Tarik Kirgin",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content-script.js"]
+    }
+  ]
+}
