@@ -1,3 +1,3 @@
 # YouTube Comments Native Emojis
 
-Returns the native operating system emojis to the YouTube comment section.
+Browser extension that returns the native operating system emojis to the YouTube comment section.
